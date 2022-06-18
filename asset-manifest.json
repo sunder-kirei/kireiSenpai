@@ -1,7 +1,7 @@
 {
   "main.css": "/kireiSenpai/static/css/main.6c1c7d16.chunk.css",
-  "main.js": "/kireiSenpai/static/js/main.9c2949b4.chunk.js",
-  "main.js.map": "/kireiSenpai/static/js/main.9c2949b4.chunk.js.map",
+  "main.js": "/kireiSenpai/static/js/main.7579b505.chunk.js",
+  "main.js.map": "/kireiSenpai/static/js/main.7579b505.chunk.js.map",
   "static/js/1.88b978cd.chunk.js": "/kireiSenpai/static/js/1.88b978cd.chunk.js",
   "static/js/1.88b978cd.chunk.js.map": "/kireiSenpai/static/js/1.88b978cd.chunk.js.map",
   "runtime~main.js": "/kireiSenpai/static/js/runtime~main.eba77a3d.js",
@@ -13,6 +13,6 @@
   "static/media/dp.jpg": "/kireiSenpai/static/media/dp.287e585d.jpg",
   "static/css/main.6c1c7d16.chunk.css.map": "/kireiSenpai/static/css/main.6c1c7d16.chunk.css.map",
   "index.html": "/kireiSenpai/index.html",
-  "precache-manifest.61e9f9e995364311c7d2f109b6aec4c2.js": "/kireiSenpai/precache-manifest.61e9f9e995364311c7d2f109b6aec4c2.js",
+  "precache-manifest.fc5dc65f5d74427b6d2b167704793339.js": "/kireiSenpai/precache-manifest.fc5dc65f5d74427b6d2b167704793339.js",
   "service-worker.js": "/kireiSenpai/service-worker.js"
 }
