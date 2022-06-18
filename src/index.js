@@ -24,12 +24,13 @@ function ContactInfo() {
       <h5 className="website">GitHub</h5>
       <div className="contactButtons">
         <button className="email">
-          <img src={email} alt="email" />
-          Email
+          <a href="mailto:sunderkumar2506@gmail.com" target="_blank"><img src={email} alt="email" />
+          Email</a>
         </button>
         <button className="linkedIn">
-          <img src={linkedIn} alt="linkedIn" />
+          <a href="#" target= "_blank"><img src={linkedIn} alt="linkedIn" />
           LinkedIn
+          </a>
         </button>
       </div>
     </div>
@@ -57,16 +58,16 @@ function Main() {
 function Nav() {
   return (
     <nav>
-      <a href="twitter.com">
+      <a href="https://twitter.com/Sunder_Kr2506">
         <img src={twitter} alt="twitter" />
       </a>
-      <a href="facebook.com">
+      <a href="https://www.facebook.com/people/Sunder-Kumar/100034880107828/">
         <img src={facebook} alt="facebook" />
       </a>
-      <a href="instagram.com">
+      <a href="https://www.instagram.com/senpai_kirei/">
         <img src={instagram} alt="instagram" />
       </a>
-      <a href="github.com">
+      <a href="https://github.com/sunder-kirei">
         <img src={github} alt="github" />
       </a>
     </nav>
