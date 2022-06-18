@@ -24,13 +24,12 @@ function ContactInfo() {
       <h5 className="website">GitHub</h5>
       <div className="contactButtons">
         <button className="email">
-          <a href="mailto:sunderkumar2506@gmail.com" target="_blank"><img src={email} alt="email" />
-          Email</a>
+          <img src={email} alt="email" />
+          <a href="mailto:sunderkumar2506@" target="_blank">Email</a>
         </button>
         <button className="linkedIn">
-          <a href="#" target= "_blank"><img src={linkedIn} alt="linkedIn" />
-          LinkedIn
-          </a>
+          <img src={linkedIn} alt="linkedIn" />
+          <a href="https://www.linkedin.com/in/sunder-kumar-992799242/"> LinkedIn </a>
         </button>
       </div>
     </div>

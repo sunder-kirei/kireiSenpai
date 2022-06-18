@@ -4,7 +4,9 @@
   font-family: "Inter", sans-serif;
   color: white;
 }
-
+a{
+  text-decoration: none;
+}
 #root {
   display: flex;
   justify-content: center;
@@ -51,7 +53,6 @@
 .email {
   background: #ffffff;
   /* gray/300 */
-
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -59,11 +60,12 @@
   border: 1px solid #d1d5db;
   /* shadow/sm */
 }
-
+.email a{
+  color: black;
+}
 .linkedIn {
   background: #5093e2;
   /* shadow/sm */
-
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -150,8 +152,4 @@ nav img[alt="github"] {
 
   color: #dcdcdc;
   margin-bottom: 15px;
-}
-
-a{
-  text-decoration: none;
 }
