@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b9b755b55578c12b20f6",
-    "url": "/kireiSenpai/static/css/main.03a5e61e.chunk.css"
+    "revision": "9c2949b43fd424655db6",
+    "url": "/kireiSenpai/static/css/main.6c1c7d16.chunk.css"
   },
   {
-    "revision": "b9b755b55578c12b20f6",
-    "url": "/kireiSenpai/static/js/main.b9b755b5.chunk.js"
+    "revision": "9c2949b43fd424655db6",
+    "url": "/kireiSenpai/static/js/main.9c2949b4.chunk.js"
   },
   {
     "revision": "88b978cd6a0590648fe5",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/kireiSenpai/static/media/dp.287e585d.jpg"
   },
   {
-    "revision": "1f509f491a5007284e4d173346b403d6",
+    "revision": "cbcf01502707ce7f3a58641c41797c43",
     "url": "/kireiSenpai/index.html"
   }
 ];
