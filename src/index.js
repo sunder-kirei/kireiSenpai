@@ -25,11 +25,11 @@ function ContactInfo() {
       <div className="contactButtons">
         <button className="email">
           <img src={email} alt="email" />
-          <a href="mailto:sunderkumar2506@" target="_blank">Email</a>
+          <a href="mailto:sunderkumar2506@gmail.com" target="_blank">Email</a>
         </button>
         <button className="linkedIn">
           <img src={linkedIn} alt="linkedIn" />
-          <a href="https://www.linkedin.com/in/sunder-kumar-992799242/"> LinkedIn </a>
+          <a href="https://www.linkedin.com/in/sunder-kumar-992799242/" target = "_blank"> LinkedIn </a>
         </button>
       </div>
     </div>
